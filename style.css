@@ -1,0 +1,91 @@
+ body {
+    background-color: black;
+    font-family: "Arial";
+    font-size: 0.875em; /*14px*/
+    margin: 0;
+    padding: 0;
+    color: gray;
+}
+.container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.preview {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 512px;
+}
+.preview2 {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+}
+.tableList {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 630px;
+}
+.center {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cammenu {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 610px; 
+}
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: lime;
+}
+a:active {
+    color: gray;
+}
+h1 {
+    color: orange;
+    text-align: center;
+}
+h2 {
+    color: orange;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 1.00em; /*14px*/
+    color: white;
+}
+.ohead {
+    background-color: olive;
+    color: white;
+    font-size: 1.20em; /*20px*/
+    text-align: right;
+}
+table, th, th {
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 610px;
+}
+td {
+    padding: 5px;
+}
+header, section, footer, aside, nav, main, article, figure {
+    display: block;
+}
+
+thead, tfoot {
+    background-color: silver;
+}
